@@ -1,22 +1,19 @@
-/*
- * spi-tool v1.0
- * SS963 Serial Power Driver Card Testing Utility
- *
- * Written by: Ensei Tankado, ensei@tankado.com
- *
- * Copyright (c) 2017  Izlence Electronic Software Inc. 
- * www.izlencebilisim.com
- *
- * Referances:
- * Copyright (c) 2007  MontaVista Software, Inc.
- * Copyright (c) 2007  Anton Vorontsov <avorontsov@ru.mvista.com>
- *
- * This program is free software; you can redistribute it and/or modify
- * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation; either version 2 of the License.
- *
- * This program uses wiringPi library from wiringpi.com. 
- * First you must install it: http://wiringpi.com/download-and-install/
+#spi-tool v1.0
+##SS963 Serial Power Driver Card Testing Utility
+
+Written by: Ensei Tankado, ensei@tankado.com
+Copyright (c) 2017  Izlence Electronic Software Inc.  www.izlencebilisim.com
+
+Referances:
+Copyright (c) 2007  MontaVista Software, Inc.
+Copyright (c) 2007  Anton Vorontsov <avorontsov@ru.mvista.com>
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License.
+
+This program uses wiringPi library from wiringpi.com. 
+First you must install it: http://wiringpi.com/download-and-install/
  
  After you can compile the spi-tool as below:
  > gcc spi-tool.c -lwiringPi -o spi -Ofast -s
