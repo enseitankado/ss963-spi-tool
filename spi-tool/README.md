@@ -14,7 +14,7 @@ the Free Software Foundation; either version 2 of the License.
 
 > This program uses wiringPi library from wiringpi.com.  
 > First you must install it: http://wiringpi.com/download-and-install/
->**TR:** Öncelikle wiring-pi kütüphanesini yükleyelim.
+> **TR:** Öncelikle wiring-pi kütüphanesini yükleyelim.
  
  After you can compile the spi-tool as below:
  TR: Daha sonra spi-tool aracını aşağıdaki gibi derleyebilirsiniz.
@@ -55,7 +55,7 @@ the Free Software Foundation; either version 2 of the License.
 
 Transmits **5 byte (40bits)** data (*0xFF,0xFE,0xFD,0xFC,0xFF*) to **SPI.0** at **500KHz**.  The **tx data** consist of **hexadecimal coded bytes** stream as below.  Also in this tutorial receiver device SS963 dont reply back any data  as seen in **RX section** (**00 00 00 00 00**). Attention this could means  **MISO** terminal is not connected.
 
-**TR:** Bu örnek 5 Byte(40bit) 'lık (*0xFF,0xFE,0xFD,0xFC,0xFF*) verisini **SPI.0** portuna **500KHz** hızında aktarır. **RX bölümündeki** (**00 00 00 00 00**) çıktıdan da görülebileceği üzere cihaz geriye dönüt olarak herhangi bir veri göndermemiştir. Hatırlatmak isteriz ki: bu örnek SPI-tool aracının SPI portu ile kullanımını örnektir. SS963 ile kullanım gerekliliklerini tam olarak karşılamaz. Aracı SPI port iletişimi destekleyen herhangi bir alıcı ile kullanımına örnek olarak verilmiştir.
+**TR:** Bu örnek 5 Byte(40bit) 'lık (*0xFF,0xFE,0xFD,0xFC,0xFF*) verisini **SPI.0** portuna **500KHz** hızında aktarır. **RX bölümündeki** (**00 00 00 00 00**) çıktıdan da görülebileceği üzere cihaz geriye dönüt olarak herhangi bir veri göndermemiştir. Hatırlatmak isteriz ki: bu örnek SPI-tool aracının SPI portu ile kullanımına basit bir örnektir. SS963 ile kullanım gerekliliklerini tam olarak karşılamaz. Aracı SPI port iletişimi destekleyen herhangi bir SPI cihazı ile kullanımına örnek için verilmiştir.
 	
 
 >  **./spi-tool -s 500000 -t 0xFF,0xFE,0xFD,0xFC,0xFF**
@@ -75,7 +75,7 @@ Transmits **5 byte (40bits)** data (*0xFF,0xFE,0xFD,0xFC,0xFF*) to **SPI.0** at 
 
 In this tutorial we use **SS963 Serial Power Driver** from [izlencebilisim.com](http://www.izlencebilisim.com/urun/ss963-seri-surucu-karti/2/). Because of this we add -**S parameter** (SS963) and use **-crp** parameters to  drive SS963 card with 96bit. Connection diagram provided in  "example-2-connection-diagram.png" below. Check this:
 
-**TR:** Bu örnek ise Raspberry Pi bilgisayarının SPI portunun şemada yer alan bağlantı şekli ile SS963'ün kullanımını anlatır. Örnekte **-S** parametresi ile alıcı olarak SS963 seri sürücü kartının kullanılacağını söyler. **-crp** parametreleri ise sırasıyla latch pininin GPIO numarasını, reset(clear) pininin GPIO numarasını ve latch sinyalinin ne kadar süre uygulanacağını ms olarak belirtir.
+**TR:** Bu örnek ise Raspberry Pi bilgisayarının SPI portunun şemada yer alan bağlantıya göre SS963 ile kullanımını anlatır. Örnekte **-S** parametresi ile alıcı olarak SS963 seri sürücü kartının kullanılacağı belirtilir. **-crp** parametreleri ise sırasıyla latch pininin GPIO numarasını, reset(clear) pininin GPIO numarasını ve latch sinyalinin ne kadar süre uygulanacağını ms olarak belirtir.
 ![enter image description here](https://github.com/enseitankado/ss963-serial-power-driver/blob/master/spi-tool/example-2-connection-diagram.png?raw=true)
 
 > **sudo ./spi -c 3 -r 2 -p 1000 --SS963 -t  0xAA,0xAA,0xAA,0xAA,0xAA,0xAA**
