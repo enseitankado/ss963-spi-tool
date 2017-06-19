@@ -16,7 +16,7 @@ the Free Software Foundation; either version 2 of the License.
 > First you must install it: http://wiringpi.com/download-and-install/
  
  After you can compile the spi-tool as below:
- > gcc spi-tool.c -lwiringPi -o spi -Ofast -s
+ > gcc spi-tool.c -lwiringPi -o spi-tool -Ofast -s
  
  To see supported parameters use -h:
  > ./spi-tool -h
@@ -70,7 +70,7 @@ In this tutorial we use **SS963 Serial Power Driver** from [izlencebilisim.com](
 
 ![enter image description here](https://github.com/enseitankado/ss963-serial-power-driver/blob/master/spi-tool/example-2-connection-diagram.png?raw=true)
 
-> **sudo ./spi -c 3 -r 2 -p 1000 --SS963 -t  0xAA,0xAA,0xAA,0xAA,0xAA,0xAA**
+> **sudo ./spi-tool -c 3 -r 2 -p 1000 --SS963 -t  0xAA,0xAA,0xAA,0xAA,0xAA,0xAA**
 
 	SPI mode       : 0
 	Bits per word  : 8
