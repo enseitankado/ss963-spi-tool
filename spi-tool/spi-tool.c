@@ -292,7 +292,7 @@ static void print_usage(const char *prog)
 		 " 	Example2: Send data (0xAA,0xAA,0xAA,0xAA,0xAA,0xAA) to SS963 serial driver and latch.\n" 
 		 " 	sudo ./spi-tool -c 3 -r 2 -p 1000 --SS963 -t 0xAA,0xAA,0xAA,0xAA,0xAA,0xAA\n" 		 
 		 " \n" 
-		 "You can contact me from ozgur.koca@linux.org.tr / tankado.com\n"		 
+		 "You can contact from support@izlencebilisim.com / iletisim@izlencebilisim.com\n"		 
 		 );
 	exit(1);
 }
