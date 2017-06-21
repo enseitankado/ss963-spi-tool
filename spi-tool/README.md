@@ -15,7 +15,7 @@ the Free Software Foundation; either version 2 of the License.
 > This program uses wiringPi library from wiringpi.com.  
 > First you must install it: http://wiringpi.com/download-and-install/
  
- After you can compile the spi-tool as below:
+ And enable SPI port with raspi-config tool then you can compile the spi-tool as below:
  > gcc spi-tool.c -lwiringPi -o spi-tool -Ofast -s
  
  To see supported parameters use -h:
