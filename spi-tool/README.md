@@ -92,4 +92,5 @@ In this example we want to take your attention to a few important things as rele
 ![enter image description here](https://github.com/enseitankado/ss963-serial-power-driver/blob/master/spi-tool/example-2-analyzer-screenshot.png?raw=true)
 
 [See tutorial video](https://www.youtube.com/watch?v=D1Yi7_5iR5U)
+[![See tutorial video](https://img.youtube.com/vi/D1Yi7_5iR5U/0.jpg)](https://www.youtube.com/watch?v=D1Yi7_5iR5U)
 
