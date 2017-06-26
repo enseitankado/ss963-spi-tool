@@ -2,7 +2,7 @@
 write-ss963.cpp
 Raspberry Pi SPI interface demo with SS963 Serial Power Driver
 iletisim@izlencebilisim.com 25/2/2017
-https://github.com/....
+https://github.com/enseitankado/ss963-serial-power-driver/blob/master/ss963-port-write-example/write-ss963.cpp
 
 A brief demonstration of the Raspberry Pi SPI interface, using the Izlence's SS963 Serial Power Driver
 
