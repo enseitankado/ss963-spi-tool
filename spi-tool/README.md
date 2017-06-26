@@ -90,3 +90,7 @@ In this tutorial we use **SS963 Serial Power Driver** from [izlencebilisim.com](
 In this example we want to take your attention to a few important things as relevant using of SS963 Serial Power Driver. First you must add **sudo** command to beginning of command because of the wiringPi functions which do latch **coudlnt runs in user space rights**. SS963 uses **latch** and **reset** functionalities. To clear (reset) all outputs set it to  **logical "0"** because of it is **active low**. After all bits transmitted to SS963 registers to write all registers to own outputs **Lacth is required**.  Whe you add **-S or --SS963** parameters the **latch signal will automaticly send**  after the data transmission was completed. Parameter -p (l-delay) sets period of latch signal.  For using of parameters please check tool's usage list with -h parameter. Examples 2 logic analyzer output is as seen as below:
 
 ![enter image description here](https://github.com/enseitankado/ss963-serial-power-driver/blob/master/spi-tool/example-2-analyzer-screenshot.png?raw=true)
+
+<iframe id="ytplayer" type="text/html" width="1102" height="826.5"
+src="https://www.youtube.com/embed/D1Yi7_5iR5U"
+frameborder="0" allowfullscreen>
