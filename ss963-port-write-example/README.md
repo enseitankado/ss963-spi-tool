@@ -6,7 +6,7 @@
 This example makes use of the Wiring Pi library, which streamlines the interface to the the I/O pins on the Raspberry Pi, providing an API that is similar to the Arduino.  You can learn about installing Wiring Pi [here](http://wiringpi.com/download-and-install/). The wiringPi SPI API is documented [here](https://projects.drogon.net/raspberry-pi/wiringpi/spi-library/)
 
 **Hardware connections:**
-This source code interfaces with the [SS963 Serial Driver card](http://www.izlencebilisim.com/urun/ss963-seri-surucu-karti/2/). The board was connected as follows:
+This source code interfaces with the [SS963 Serial Driver card](http://www.izlencebilisim.com/urun/ss963-seri-surucu-karti/2/) and Raspberry Pi connected as follows:
 
 |Raspberry Pi    |SS963|
 |----------------|---------------|
@@ -39,6 +39,6 @@ Development environment specifics:
 
 # Videos 
 
-Similar tutorials in action: (https://www.youtube.com/watch?v=Z-NB86WDfvY&list=PL074LABmfmYpe0lODZZtrJP0slMUnYEdx) 
+See some similar tutorials in action: (https://www.youtube.com/watch?v=Z-NB86WDfvY&list=PL074LABmfmYpe0lODZZtrJP0slMUnYEdx) 
 
 *Distributed as-is; no warranty is given.*
