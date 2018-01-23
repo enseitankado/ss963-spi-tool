@@ -39,6 +39,7 @@ Development environment specifics:
 
 # Videos 
 
-See some similar tutorials in action: (https://www.youtube.com/watch?v=Z-NB86WDfvY&list=PL074LABmfmYpe0lODZZtrJP0slMUnYEdx) 
+See some similar tutorials in action: 
+(https://www.youtube.com/watch?v=Z-NB86WDfvY&list=PL074LABmfmYpe0lODZZtrJP0slMUnYEdx) 
 
 *Distributed as-is; no warranty is given.*
