@@ -95,7 +95,7 @@ In this example we want to take your attention to a few important things as rele
 
 ### See in action on Youtube
 
-[![See tutorial video](https://img.youtube.com/vi/D1Yi7_5iR5U/0.jpg)](https://www.youtube.com/watch?v=D1Yi7_5iR5U)
+[![See tutorial video](http://www.tankado.com/wp-content/uploads/2018/01/2018-01-23_18-39-43.png)](https://www.youtube.com/watch?v=D1Yi7_5iR5U)
 
 
 
