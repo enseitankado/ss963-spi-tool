@@ -7,9 +7,11 @@ Bu depoda SS963 seri sürücü kartını Raspberry Pi (GCC) ve Arduino üzerinde
 Ayrıca jenerik bir araç olan SPI tool ile Raspberry Pi'ın SPI portunu esnek bir şekilde komut satırından kullanabilirsiniz.
 
 # PDFs 
- [English: SS963 Catalog & Datasheet v1.1](http://www.izlencebilisim.com/kullanici/goruntu/yazi/fileman/Uploads/tanitim_kitapciklari/ss963_catalog_en_1.1.pdf)
- [Turkish: SS963 Geliştirme Süreci](http://www.izlencebilisim.com/kullanici/goruntu/yazi/fileman/Uploads/tanitim_kitapciklari/SS963_gelistirme_sureci.pdf)
-  [Turkish: SS963 Katalog & Verisayfası v1.1]( http://www.izlencebilisim.com/kullanici/goruntu/yazi/fileman/Uploads/tanitim_kitapciklari/ss963_katalog_tr.pdf)
+[English: SS963 Catalog & Datasheet v1.1](http://www.izlencebilisim.com/kullanici/goruntu/yazi/fileman/Uploads/tanitim_kitapciklari/ss963_catalog_en_1.1.pdf)
+ 
+[Turkish: SS963 Geliştirme Süreci](http://www.izlencebilisim.com/kullanici/goruntu/yazi/fileman/Uploads/tanitim_kitapciklari/SS963_gelistirme_sureci.pdf)
+ 
+[Turkish: SS963 Katalog & Verisayfası v1.1]( http://www.izlencebilisim.com/kullanici/goruntu/yazi/fileman/Uploads/tanitim_kitapciklari/ss963_katalog_tr.pdf)
   
 # In Action
 Test with relays over web interface (384 ports): https://www.youtube.com/watch?v=xHEEVZyYncc
