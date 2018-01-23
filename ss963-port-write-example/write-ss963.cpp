@@ -32,7 +32,7 @@ The board was connected as follows:
 (Raspberry Pi)(SS963)
 GND  	-> GND
 GPIO.2	-> RESET
-GPIO.2	-> LATCH
+GPIO.3	-> LATCH
 SCK  	-> CLOCK
 MOSI 	-> DATA
 
