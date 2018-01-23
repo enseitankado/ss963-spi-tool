@@ -1,6 +1,6 @@
 #spi-tool v1.0
 
-##SS963 Serial Power Driver Card Testing Utility and Generic SPI Testing Tool
+###SS963 Serial Power Driver Card Testing Utility and Generic SPI Testing Tool
 
 Written by: Ensei Tankado, ensei@tankado.com
 **Copyright (c) 2017  Izlence Electronic Software Inc.**  [www.izlencebilisim.com](http://www.izlencebilisim.com/urun/ss963-seri-surucu-karti/2/)
