@@ -1,4 +1,5 @@
 #spi-tool v1.0
+
 ##SS963 Serial Power Driver Card Testing Utility and Generic SPI Testing Tool
 
 Written by: Ensei Tankado, ensei@tankado.com
@@ -25,7 +26,7 @@ the Free Software Foundation; either version 2 of the License.
       -D --device   device to use (default /dev/spidev0.0)
       -s --speed    max speed (Hz)
       -t --transmit hex coded decimal bytes
-      -S --SS963      using SS963 Serial Driver Card. Set ^reset and apply latch signal.
+      -S --SS963    using SS963 Serial Driver Card. Sets ^reset bacause of latch signal.
       -c --latch    latch pin GPIO number (specic for SS963). Default 2
       -r --reset    reset pin GPIO number (specic for SS963). Default 3
       -p --ldelay   latch delay as micro seconds (specic for SS963). Default 50uS
@@ -92,6 +93,9 @@ In this example we want to take your attention to a few important things as rele
 ![enter image description here](https://github.com/enseitankado/ss963-serial-power-driver/blob/master/spi-tool/example-2-analyzer-screenshot.png?raw=true)
 
 
-### See the tutorial video
+### See in action on Youtube
+
 [![See tutorial video](https://img.youtube.com/vi/D1Yi7_5iR5U/0.jpg)](https://www.youtube.com/watch?v=D1Yi7_5iR5U)
+
+
 
