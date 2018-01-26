@@ -17,5 +17,4 @@ Bu örnekte seri sürücü 963'ün çıkışlarını sırayla yakan bir Arduino 
 
 
 ## See in Action
-![ss963]()
 [![See arduino code in action](http://www.tankado.com/wp-content/uploads/2018/01/2018-01-26_5-41-11.png)](https://www.youtube.com/watch?v=2ZBsiXzz8tk&feature=youtu.be)
