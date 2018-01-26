@@ -1,6 +1,8 @@
-# ss963-serial-power-driver
+# ss963-serial-power-driver, 96 ports X 4.4 amper
 The SS963 serial driver board includes code samples that you can test and use on Raspberry Pi (GCC) and Arduino.
 You can also use the SPI tool, a generic tool, with a flexible command line from the Raspberry Pi's SPI port.
+
+![ss963](http://www.tankado.com/wp-content/uploads/2018/01/v5c_lq.png)
 
 # ss963 seri sürücü
 Bu depoda SS963 seri sürücü kartını Raspberry Pi (GCC) ve Arduino üzerinde test edip kullanabileceğiniz kod örnekleri yer alıyor.
@@ -25,3 +27,5 @@ SS963 v5a touch screen responsibility test over wifi (Turkish): https://www.yout
 ss963 v5a test with Raspberry Pi: https://www.youtube.com/watch?v=5QUMfcL6kKY
 
 SS963 v5b first review (Turkish): https://www.youtube.com/watch?v=PKpFK6aAhGk
+
+Arduino v5c test (Silence): 
