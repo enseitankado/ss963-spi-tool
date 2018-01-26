@@ -1,8 +1,18 @@
-# ss963-serial-power-driver (96 ports x 4.4 amper)
+# ss963-serial-power-driver
 The SS963 serial driver board includes code samples that you can test and use on Raspberry Pi (GCC) and Arduino.
 You can also use the SPI tool, a generic tool, with a flexible command line from the Raspberry Pi's SPI port.
 
 ![ss963](http://www.tankado.com/wp-content/uploads/2018/01/v5c_lq.png)
+
+ - 96 x 3 Amper 
+ - Output range: 0-30 Volt
+ - Stackable (cascadable) up to 100 more card (more than 10000 ports)
+ - 100% CMOS
+ - Low power consumption: lower than 5mA
+ - Maximum output current 4.4 Amper
+ - Total current: 100 Amper
+ - High voltage & reverse voltage protection
+
 
 # ss963 seri sürücü
 Bu depoda SS963 seri sürücü kartını Raspberry Pi (GCC) ve Arduino üzerinde test edip kullanabileceğiniz kod örnekleri yer alıyor.
