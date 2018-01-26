@@ -1,4 +1,4 @@
-# ss963-serial-power-driver, 96 ports X 4.4 amper
+# ss963-serial-power-driver (96 ports x 4.4 amper)
 The SS963 serial driver board includes code samples that you can test and use on Raspberry Pi (GCC) and Arduino.
 You can also use the SPI tool, a generic tool, with a flexible command line from the Raspberry Pi's SPI port.
 
