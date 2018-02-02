@@ -1,9 +1,8 @@
 ## Simple test program to drive SS963 with Arduino Uno's SSPI port
-The SS963 serial driver board includes code samples that you can test and use on Raspberry Pi (GCC) and Arduino.
-You can also use the SPI tool, a generic tool, with a flexible command line from the Raspberry Pi's SPI port.
+In this example, the code of the Arduino program, which controls the outputs of the serial driver 963 with an output of 96 units of 3Amper, is given according to an animation. The circuit connection is as follows
 
 ## ss963 seri sürücü (Turkish)
-Bu örnekte seri sürücü 963'ün çıkışlarını sırayla yakan bir Arduino programının kodu verilmiştir. Bağlantı şekli aşağıdaki gibidir:
+Bu örnekte 96 adet 3Amper'lik çıkaşa sahip seri sürücü 963'ün çıkışlarını bir animasyona göre kontrol eden Arduino programının kodu verilmiştir. Devre bağlantısı aşağıdaki gibidir:
 
  ## connection diagram
  
