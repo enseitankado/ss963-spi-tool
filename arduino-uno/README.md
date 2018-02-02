@@ -1,4 +1,4 @@
-## Expansion of Arduino ports with SS963 serial driver
+## Expansion of Arduino ports with SS963 serial driver: 96 x 3Amper
 In this example, the code of the Arduino program, which controls the outputs of the serial driver 963 with an output of 96 units of 3Amper, is given according to an animation. In other words, a single arduino port was pulled out of 96 ports of 3Amper. The circuit connection is as follows.
 
 ## SS963 seri sürücü ile Arduino portlarını genişletmek (Turkish)
