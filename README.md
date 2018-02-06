@@ -39,3 +39,10 @@ ss963 v5a test with Raspberry Pi: https://www.youtube.com/watch?v=5QUMfcL6kKY
 SS963 v5b first review (Turkish): https://www.youtube.com/watch?v=PKpFK6aAhGk
 
 Controlling with Arduino Uno (Silence): https://youtu.be/2ZBsiXzz8tk
+
+## Social Media
+Galeri-1: http://www.izlencebilisim.com/resim_kategori/resimler/1/
+Galeri-2: http://www.izlencebilisim.com/video_kategori/videolar/1/
+Facebook: https://www.facebook.com/pg/izlencebilisim/posts/
+Youtube: https://www.youtube.com/playlist?list=PL074LABmfmYpe0lODZZtrJP0slMUnYEdx
+
