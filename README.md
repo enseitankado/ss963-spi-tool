@@ -42,7 +42,14 @@ Controlling with Arduino Uno (Silence): https://youtu.be/2ZBsiXzz8tk
 
 ## Social Media
 Galeri-1: http://www.izlencebilisim.com/resim_kategori/resimler/1/
+
 Galeri-2: http://www.izlencebilisim.com/video_kategori/videolar/1/
+
+Twitter: https://twitter.com/izlencebilisim
+
 Facebook: https://www.facebook.com/pg/izlencebilisim/posts/
+
 Youtube: https://www.youtube.com/playlist?list=PL074LABmfmYpe0lODZZtrJP0slMUnYEdx
+
+
 
