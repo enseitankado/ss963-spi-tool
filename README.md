@@ -40,6 +40,10 @@ SS963 v5b first review (Turkish): https://www.youtube.com/watch?v=PKpFK6aAhGk
 
 Controlling with Arduino Uno (Silence): https://youtu.be/2ZBsiXzz8tk
 
+Video Gallery: http://www.izlencebilisim.com/video_kategori/videolar/1/
+
+Photo Gallery: http://www.izlencebilisim.com/resim_kategori/resimler/1/
+
 ## Social Media
 Galeri-1: http://www.izlencebilisim.com/resim_kategori/resimler/1/
 
